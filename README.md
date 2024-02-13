@@ -1,2 +1,2 @@
-# PHY399
+# PHY397
 Scientific programming for physics
